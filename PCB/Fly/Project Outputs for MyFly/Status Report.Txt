@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [MyFly.PrjPCB]
+   Generated File[Pick Place for MyFly.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:44:00 On 2018-11-07

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VBAT Pin=J6-2
+Removed Pin From Net: NetName=VBAT Pin=J6-4
+Removed Pin From Net: NetName=GND Pin=J6-6
+Removed Pin From Net: NetName=U3_TX Pin=J6-7
+Removed Pin From Net: NetName=GND Pin=J6-8
+Removed Pin From Net: NetName=OSD_OUT Pin=J6-9
+Removed Pin From Net: NetName=GND Pin=J6-10
+Added Pin To Net: NetName=VBAT Pin=J6-1
+Added Pin To Net: NetName=VBAT Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J6-7
+Added Pin To Net: NetName=U3_TX Pin=J6-8
+Added Pin To Net: NetName=GND Pin=J6-9
+Added Pin To Net: NetName=OSD_OUT Pin=J6-10
+Added Room: Name=MyFly1
+Added Room: Name=MyFly2
